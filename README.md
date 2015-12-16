@@ -16,7 +16,6 @@ var result = yield talib.exec({...});
 ```
 
 ## Example
-=========
 ```
 var talib = require('co-talib');
 var co = require('co');
