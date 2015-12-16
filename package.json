@@ -12,5 +12,8 @@
     "generator"
   ],
   "author": "Tom Ma",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "talib": "^1.0.2"
+  }
 }
