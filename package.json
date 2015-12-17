@@ -1,6 +1,6 @@
 {
   "name": "co-talib",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "co-based wrapper for talib",
   "main": "index.js",
   "scripts": {
@@ -18,9 +18,8 @@
     "co": "^4.6.0",
     "talib": "^1.0.2"
   },
-  "repository" :
-  {
-    "type" : "git",
-    "url" : "https://github.com/hungchai/co-talib"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hungchai/co-talib"
   }
 }
