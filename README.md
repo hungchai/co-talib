@@ -1,15 +1,18 @@
 # co-talib
 co-based wrapper for talib
 
-# Get starts
+# Getting started
 Install oransel/node-talib
 ```
 npm install talib
 npm install co-talib
 ```
 
-## Usages
-  exec() integrates with co and the yield keyword
+## Usage
+  exec({...}) integrates with co and the yield keyword
+  The input parameters please referred to 
+   * [oransel/node-talib](https://github.com/oransel/node-talib)
+   
 ```
 var talib = require('co-talib');
 var result = yield talib.exec({...});
