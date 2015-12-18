@@ -1,6 +1,6 @@
 {
   "name": "co-talib",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "co-based wrapper for talib",
   "main": "index.js",
   "scripts": {
