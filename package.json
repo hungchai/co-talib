@@ -11,8 +11,13 @@
     "talib",
     "generator"
   ],
-  "author": "Tom Ma",
-  "license": "ISC",
+  "author": "Ma Chun Hung",
+  "licenses": [
+    {
+      "type": "LGPL License",
+      "url": "http://www.gnu.org/licenses/lgpl.html"
+    }
+  ],
   "dependencies": {
     "node": ">4.1.1",
     "co": "^4.6.0",
