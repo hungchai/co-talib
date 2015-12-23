@@ -19,9 +19,12 @@
     }
   ],
   "dependencies": {
-    "node": ">4.1.1",
     "co": "^4.6.0",
     "talib": "^1.0.2"
+  },
+   "engines": {
+    "iojs": ">= 1.0.0",
+    "node": ">= 0.12.0"
   },
   "repository": {
     "type": "git",
